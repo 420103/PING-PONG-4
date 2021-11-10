@@ -1,0 +1,56 @@
+.heading{
+    width : 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display : inline;
+}
+
+.heading button{
+    float : right;
+    border : 1px solid white;
+}
+
+.big_image{
+    width : 100%;
+}
+
+#start,#status{
+    font-size : 20px;
+}
+
+.credits{
+    background-color : white;
+    line-height : 50px;
+    margin : 0px;
+}
+
+.modal-dialog{
+    width : 90%;
+}
+
+.intruction_image{
+    display : inline-block;
+    width: 45%;
+}
+
+#canvas{
+    border: 3px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 30px;
+}
+
+h4{
+    font-weight: bold;
+    color: red;
+    line-height: 2;
+}
+
+
+.heading123{
+    font-weight: bold;
+    color: red;
+    line-height: 2;
+}
